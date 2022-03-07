@@ -7,10 +7,15 @@
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
  * Variables
+ es una funcion que asigna y guarda valores a valores.
  * Strings
+ son texto que se pueden fusionar y siempre se escriben entre comillas
  * Funciones (argumentos, `return`)
+ son aquellas que hacen una acción
  * Declaraciones `if`
+ son elementos que condicionan una funcion
  * Valores booleanos (`true`, `false`)
+ son aquellos que se programan para indicar si algun dato es verdadero o falso
 
 2. Instalar Node y NPM. NPM se incluye con Node. <https://nodejs.org/en/download/>
 
